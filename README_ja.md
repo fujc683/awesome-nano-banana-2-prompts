@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 APIMart で Nano Banana 2 を使って生成 · apimart.ai/model/nano-banana-2-api](https://gola.apimart.ai/k-GkR6E9)**
+
+`https://gola.apimart.ai/k-GkR6E9`
 [💰 Pricing](https://gola.apimart.ai/k-8dogMD) · [🔑 Get an API key](https://gola.apimart.ai/k-XGBGxf)
 
 

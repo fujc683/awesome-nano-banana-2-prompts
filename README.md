@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with Nano Banana 2 on APIMart · apimart.ai/model/nano-banana-2-api](https://gola.apimart.ai/k-GkR6E9)**
+
+`https://gola.apimart.ai/k-GkR6E9`
 [💰 Pricing](https://gola.apimart.ai/k-8dogMD) · [🔑 Get an API key](https://gola.apimart.ai/k-XGBGxf)
 
 
@@ -50,7 +52,7 @@ Nano Banana 2 is known for strong text rendering and precise subject control. Th
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-21
 - apimart.ai/model/nano-banana-2-api
 
 ## Browse by Category
