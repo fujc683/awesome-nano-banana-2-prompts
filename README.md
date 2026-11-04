@@ -52,7 +52,7 @@ Nano Banana 2 is known for strong text rendering and precise subject control. Th
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-11-03
+- Last updated: 2026-11-04
 - apimart.ai/model/nano-banana-2-api
 
 ## Browse by Category
